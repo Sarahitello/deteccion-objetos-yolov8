@@ -1,12 +1,17 @@
 # **Proyecto de Visión por Computadora: Detección de Objetos con IA**
 **Solución de visión por computadora para detección automática de objetos en tiempo real**
 
+**Sarahi Lilian Tello Torres**
+**[Data Scientist | Machine Learning & Applied Mathematics]**
+
+📍 *Ciudad de México, México*
+🔗 [GitHub](https://github.com/Sarahitello) | [LinkedIn](https://www.linkedin.com/in/sarahi-lilian-tello-torres-568741202)
+
+---
+
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
 ---
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/Sarahitello/Proyecto-IA-Vision-Computacional/blob/main/Sistema_de_detección_automática_de_objetos_en_imágenes.ipynb)
-
 
 ## **📌 Descripción del Proyecto**
 Este proyecto implementa un **sistema robusto de detección de objetos** en imágenes utilizando **YOLOv8**, uno de los modelos más avanzados en visión por computadora. La solución está optimizada para ejecutarse en **Google Colab**, aprovechando la aceleración por GPU para garantizar **inferencias rápidas y precisas**.
@@ -38,7 +43,9 @@ Este proyecto implementa un **sistema robusto de detección de objetos** en imá
 ---
 
 ## **🚀 ¿Cómo Ejecutarlo?**
-1. **Abrir el notebook**: Carga el archivo `.ipynb` en [Google Colab](https://colab.research.google.com/).
+1. **Abrir en Google Colab**: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/Sarahitello/Proyecto-IA-Vision-Computacional/blob/main/Sistema_de_detección_automática_de_objetos_en_imágenes.ipynb)
+.
 2. **Configurar el entorno**: Asegúrate de seleccionar una **GPU** en el menú de runtime.
 3. **Ejecutar las celdas**: Sigue el orden del notebook para instalar dependencias y cargar el modelo.
 4. **Subir una imagen**: Prueba con tus propias imágenes para ver los resultados en tiempo real.
