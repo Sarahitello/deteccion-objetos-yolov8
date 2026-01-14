@@ -1,4 +1,4 @@
-# **Detección de Objetos con YOLOv8 en Google Colab**
+# **Proyecto de Visión por Computadora: Detección de Objetos con IA**
 **Solución de visión por computadora para detección automática de objetos en tiempo real**
 
 ---
