@@ -2,6 +2,7 @@
 **Solución de visión por computadora para detección automática de objetos en tiempo real**
 
 ---
+[![Open in Colab](https://colab.research.google.com/drive/15k9g541QrxgukZSDY2wTFTfw-68jCkip?usp=sharing)]
 
 ## **📌 Descripción del Proyecto**
 Este proyecto implementa un **sistema robusto de detección de objetos** en imágenes utilizando **YOLOv8**, uno de los modelos más avanzados en visión por computadora. La solución está optimizada para ejecutarse en **Google Colab**, aprovechando la aceleración por GPU para garantizar **inferencias rápidas y precisas**.
