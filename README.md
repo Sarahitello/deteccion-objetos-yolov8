@@ -44,7 +44,6 @@ Este proyecto implementa un **sistema robusto de detección de objetos** en imá
 
 ## **🚀 ¿Cómo Ejecutarlo?**
 1. **Abrir en Google Colab**: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/Sarahitello/Proyecto-IA-Vision-Computacional/blob/main/Sistema_de_detección_automática_de_objetos_en_imágenes.ipynb)
 .
 2. **Configurar el entorno**: Asegúrate de seleccionar una **GPU** en el menú de runtime.
 3. **Ejecutar las celdas**: Sigue el orden del notebook para instalar dependencias y cargar el modelo.
