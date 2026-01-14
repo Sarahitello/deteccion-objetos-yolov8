@@ -43,13 +43,14 @@ Este proyecto implementa un **sistema robusto de detección de objetos** en imá
 ---
 
 ## **🚀 ¿Cómo Ejecutarlo?**
-1. **Abrir en Google Colab**: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/Sarahitello/Proyecto-IA-Vision-Computacional/blob/main/sistema_deteccion_objetos_yolov8.ipynb)
+1. **Abrir en Google Colab**:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sarahitello/Proyecto-IA-Vision-Computacional/blob/main/sistema_deteccion_objetos_yolov8.ipynb)
 
-.
-2. **Configurar el entorno**: Asegúrate de seleccionar una **GPU** en el menú de runtime.
-3. **Ejecutar las celdas**: Sigue el orden del notebook para instalar dependencias y cargar el modelo.
-4. **Subir una imagen**: Prueba con tus propias imágenes para ver los resultados en tiempo real.
+   *(Haz clic en el botón para abrir el notebook en **Google Colab** y ejecutarlo con acceso a GPU).*
+   
+3. **Configurar el entorno**: Asegúrate de seleccionar una **GPU** en el menú de runtime.
+4. **Ejecutar las celdas**: Sigue el orden del notebook para instalar dependencias y cargar el modelo.
+5. **Subir una imagen**: Prueba con tus propias imágenes para ver los resultados en tiempo real.
 
 ---
 
